@@ -14,15 +14,17 @@
 
 <div align="center">
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="Next.js" alt="Next.js" width="40" height="40" style="background-color:white;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://p7.hiclipart.com/preview/558/166/499/node-js-javascript-react-express-js-linux-foundation-mongodb-icons.jpg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux Toolkit" alt="Redux Toolkit" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" title="React" alt="React" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="Next.js" alt="Next.js" height="40" style="background-color:white;"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"height="40"/>&nbsp;
+    <img src="https://p7.hiclipart.com/preview/558/166/499/node-js-javascript-react-express-js-linux-foundation-mongodb-icons.jpg" title="Node.js" alt="Node.js" height="40"/>&nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" title="NestJS" alt="NestJS" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux Toolkit" alt="Redux Toolkit" height="40"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height=40/>
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png" height=40/>
+    <img src="https://www.svgrepo.com/show/331370/docker.svg" height=40/>
   </div>
 </div>
 
