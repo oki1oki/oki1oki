@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=5a79c4&width=500&lines=👋+Hi+there%2C+I'm+Anton&repeat=1"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=5a79c4&width=500&pause=10000&lines=👋+Hi+there%2C+I'm+Anton"/>
 <img
   src="https://i.pinimg.com/1200x/72/3b/3b/723b3b3d37669eae43670b2ab96be2b0.jpg"
 />
