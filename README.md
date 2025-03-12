@@ -33,8 +33,8 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oki1oki&show_icons=true&hide=stars">
-  <img src="https://streak-stats.demolab.com?user=oki1oki&mode=weekly">
+  <div><img src="https://github-readme-stats.vercel.app/api?username=oki1oki&show_icons=true&hide=stars"></div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oki1oki&layout=compact"></div>
 </div>
 
 ---
